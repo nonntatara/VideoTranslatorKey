@@ -1,2 +1,2 @@
 # VideoTranslatorKey
-Key=2027
+Key=2026
