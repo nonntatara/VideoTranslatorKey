@@ -1,6 +1,6 @@
 # VideoTranslatorKey
 Key=2030
-User: SAMPHORS
+User: SAMPHORS123
 CID: BFEBFBFF000406F1
 RID: 333C6AF2
 ###
